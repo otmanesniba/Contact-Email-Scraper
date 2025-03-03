@@ -18,5 +18,6 @@ A Python script to scrape contact emails from websites using **Pyppeteer** (a he
 Before running the script, ensure you have the following:
 1. **Python 3.8+** installed.
 2. Required Python libraries installed. You can install them using:
-   ```bash
+
+    ```bash
    pip install pyppeteer pyfiglet termcolor
